@@ -27,7 +27,7 @@ This is a development version of EasyBoard. Currently, it is a functional whiteb
 **Installation Instructions**
 -----------------------------
 
-1.  bashCopypip install tk
+1.  In terminal type: pip install tk
     
 2.  Navigate to the /dist directory, where you will find the executable file.
     
